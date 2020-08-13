@@ -1,6 +1,6 @@
 # System Design 
 
-This repo contains the key points/learnings/summary of the scalability, distributes systems related content.
+This repo contains the key points/learnings/summary of the scalability, distributes systems related content, that I have been currently reading.
 
 # Maintainer :sunglasses:
 

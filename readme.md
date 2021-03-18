@@ -7,7 +7,7 @@ This repo contains
 
 # Why?
 
-There is lot scattered information out of there. It becomes really difficult to even get started. I have laid the ```system design prep```
+There is lot of scattered information out there. It becomes really difficult to even get started with. I have laid the ```system design prep```
 in a structured manner.
 
 # Maintainer :sunglasses:

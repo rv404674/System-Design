@@ -1,6 +1,14 @@
 # System Design 
 
-This repo contains the key points/learnings/summary of the scalability, distributes systems related content, that I have been currently reading.
+This repo contains
+1. How to start
+2. Resources
+3. some key points about how to prepare for sys design.
+
+# Why?
+
+There is lot scattered information out of there. It becomes really difficult to even get started. I have laid the ```system design prep```
+in a structured manner.
 
 # Maintainer :sunglasses:
 
